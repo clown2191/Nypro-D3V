@@ -210,6 +210,20 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\images\charts logo.png" />
+    <Content Include="Content\images\Customers.png" />
+    <Content Include="Content\images\Data record filtering for terminology management.jpg" />
+    <Content Include="Content\images\downtime.jpg" />
+    <Content Include="Content\images\excel_logo.jpg" />
+    <Content Include="Content\images\jabil_logo.gif" />
+    <Content Include="Content\images\Logo.PNG" />
+    <Content Include="Content\images\Logo_Sistemas_OEE_Retina_Inverse.png" />
+    <Content Include="Content\images\nyprologo-wh.png" />
+    <Content Include="Content\images\pdf_logo.jpg" />
+    <Content Include="Content\images\photodune-2623692-time-management-xs.jpg" />
+    <Content Include="Content\images\scrapt.png" />
+    <Content Include="Content\images\templates-for-excel-pro-icon.png" />
+    <Content Include="Content\images\xls-1.ico" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -270,7 +284,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Content\NewFolder1\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
